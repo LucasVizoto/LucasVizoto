@@ -1,4 +1,6 @@
-<img src="git_picture" align=right>
+<div margin=50em>
+<img src="git_picture.gif" align=right width=450px>
+</div>
 
 # Seja Bem-Vindo ao meu GitHub!
 
@@ -15,3 +17,11 @@
 </div>
 
 ### Sou graduando em Ciências da Computação na Uni Facef - Centro Universitário Municipal de Franca. Atualmente trabalho como Assistente Técnico e Diretor de Marketing na empresa UniFacef JR. Por conta disso, faço parte também do Movimento Empresa Júnior.
+
+
+<div align="center"
+  <a href="https://github.com/LucasVizoto">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LucasVizoto&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVizoto&theme=radical&hide_border=false&&layout=compact"/>
+  </a>
+</div>
