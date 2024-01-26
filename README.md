@@ -1,16 +1,17 @@
-### Hi there 👋
+<img src="git_picture" align=right>
 
-<!--
-**LucasVizoto/LucasVizoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Seja Bem-Vindo ao meu GitHub!
 
-Here are some ideas to get you started:
+<div> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:lucas.vizoto@unifacefjr.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+
+<a href="https://www.linkedin.com/in/lucasvizoto" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank">
+</a>
+
+</div>
+
+### Sou graduando em Ciências da Computação na Uni Facef - Centro Universitário Municipal de Franca. Atualmente trabalho como Assistente Técnico e Diretor de Marketing na empresa UniFacef JR. Por conta disso, faço parte também do Movimento Empresa Júnior.
