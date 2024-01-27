@@ -5,7 +5,7 @@
 # Seja Bem-Vindo ao meu GitHub! ☕️
 
 
-###### Muito prazer! Sou Lucas Vizoto, graduando em Ciências da Computação na Uni Facef - Centro Universitário Municipal de Franca. Atualmente trabalho como Assistente Técnico e Diretor de Marketing na empresa UniFacef JR. Por conta disso, faço parte também do Movimento Empresa Júnior. No momento estou estudando Python e suas bibliotecas, mas pretendo me tornar um programador fullstack.
+ Muito prazer! Sou Lucas Vizoto, graduando em Ciências da Computação na Uni Facef - Centro Universitário Municipal de Franca. Atualmente trabalho como Assistente Técnico e Diretor de Marketing na empresa UniFacef JR. Por conta disso, faço parte também do Movimento Empresa Júnior. No momento estou estudando Python e suas bibliotecas, mas pretendo me tornar um programador fullstack.
 
 
 <div>
@@ -28,12 +28,16 @@ Essas são as tecnogias na qual sou familiarizado
 
 <div>
   
-  ## 🛠️ Ferramentas Utilizadas:
+  #### 🛠️ Ferramentas Utilizadas:
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
   ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 </div>
+
+####
+
+####
 
   ## 📱 Contato:
 <div> 
@@ -45,9 +49,19 @@ Essas são as tecnogias na qual sou familiarizado
 </a>
 </div>
 
+####
+
+####
+
 <div align="center" margin=50em>
   <a href="https://github.com/LucasVizoto">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVizoto&theme=dracula&hide_border=true&&layout=compact"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasVizoto&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true&show_owner=true"/>
   </a>
+</div>
+
+<div align="center">
+
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient%&section=footer&reversal=false&descAlignY=50&descSize=7)
+  
 </div>
