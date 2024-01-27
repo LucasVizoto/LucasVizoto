@@ -16,7 +16,7 @@
 
 </div>
 
-### Sou graduando em Ciências da Computação na Uni Facef - Centro Universitário Municipal de Franca. Atualmente trabalho como Assistente Técnico e Diretor de Marketing na empresa UniFacef JR. Por conta disso, faço parte também do Movimento Empresa Júnior.
+##### Sou graduando em Ciências da Computação na Uni Facef - Centro Universitário Municipal de Franca. Atualmente trabalho como Assistente Técnico e Diretor de Marketing na empresa UniFacef JR. Por conta disso, faço parte também do Movimento Empresa Júnior.
 
 
 <div align="center"
