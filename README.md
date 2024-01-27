@@ -1,5 +1,5 @@
 <div margin=50em>
-<img src="git_picture.gif" align=right width=325px>
+<img src="computer_image.jpg" align=right width=325px>
 </div>
 
 # Seja Bem-Vindo ao meu GitHub!
