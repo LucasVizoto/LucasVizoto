@@ -62,6 +62,6 @@ Essas são as tecnogias na qual sou familiarizado
 
 <div align="center">
 
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient%&section=footer&reversal=false&descAlignY=50&descSize=7)
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=%&section=footer&reversal=false&descAlignY=50&descSize=7)
   
 </div>
