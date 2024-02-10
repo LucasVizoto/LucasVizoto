@@ -5,7 +5,7 @@
 # Seja Bem-Vindo ao meu GitHub! ☕️
 
 
- Muito prazer! Sou Lucas Vizoto, graduando em Ciências da Computação na Uni Facef - Centro Universitário Municipal de Franca. Atualmente trabalho como Assistente Técnico e Diretor de Marketing na empresa UniFacef JR. Por conta disso, faço parte também do Movimento Empresa Júnior. No momento estou estudando Python e suas bibliotecas, mas pretendo me tornar um programador fullstack.
+ Muito prazer! Sou Lucas Vizoto, graduando em Ciências da Computação na Uni Facef - Centro Universitário Municipal de Franca. Atualmente trabalho como Auxiliar Técnico e Diretor de Marketing na empresa UniFacef JR. Por conta disso, faço parte também do Movimento Empresa Júnior. No momento estou estudando Python e suas bibliotecas, mas pretendo me tornar um programador fullstack.
 
 
 <div>
