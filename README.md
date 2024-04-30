@@ -5,7 +5,7 @@
 # Seja Bem-Vindo ao meu GitHub! ☕️
 
 
-No momento estou estudando Python e suas bibliotecas, mas pretendo me tornar um programador fullstack.
+Desenvolvedor FullStack de Franca-SP, atualmente estou cursando Ciências da Computação na instituição Uni-Facef e estou me aprofundando meu conhecimento em Back-end, em linguagens como Java e Python. 
 
 
 <div>
@@ -48,8 +48,8 @@ Essas são as tecnogias na qual sou familiarizado
 ####
 
 <div align="center" margin=50em>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVizoto&theme=dracula&hide_border=true&&layout=compact"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasVizoto&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true&show_owner=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVizoto&theme=dracula&hide_border=true&&layout=compact"/>
+    <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LucasVizoto&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=dracula"/>
 </div>
 
 <div align="center">
