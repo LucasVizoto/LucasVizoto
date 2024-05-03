@@ -49,7 +49,7 @@ Essas são as tecnogias na qual sou familiarizado
 
 <div align="center" margin=50em>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVizoto&theme=dracula&hide_border=true&&layout=compact"/>
-    <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LucasVizoto&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LucasVizoto&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=dracula"/>
 </div>
 
 <div align="center">
