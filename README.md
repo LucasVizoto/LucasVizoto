@@ -16,7 +16,7 @@ Essas são as tecnogias na qual sou familiarizado, e tenho iniciado nos estudos:
 #### 
 <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,postgres,java,arduino,wordpress,js,html,css,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=python,react,nodejs, golang, postgres,java,arduino" />
     </a>
   </p>
 </div>
