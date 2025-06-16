@@ -31,7 +31,7 @@ Essas são as tecnogias na qual sou familiarizado, e tenho iniciado nos estudos:
 <a href="https://www.linkedin.com/in/lucasvizoto" target="_blank">
   <img src="https://img.shields.io/badge/-linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
 </a>
-<a href="mailto:lucas.vizoto@unifacefjr.com">
+<a href="mailto:lucasvizoto364@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 </div>
