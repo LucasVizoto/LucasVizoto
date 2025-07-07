@@ -41,8 +41,8 @@ Essas são as tecnogias na qual sou familiarizado, e tenho iniciado nos estudos:
 ####
 
 <div align="center" margin=50em>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVizoto&theme=dracula&hide_border=true&&layout=compact"/>
-    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LucasVizoto&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&border_radius=3&theme=dracula&hide_border=true"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVizoto&theme=dracula&hide_border=true&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasVizoto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&&layout=compact"/>
 </div>
 
 <div align="center">
