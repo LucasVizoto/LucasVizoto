@@ -11,7 +11,7 @@ Desenvolvedor FullStack de Franca-SP, atualmente estou cursando Ciências da Com
   
   ## 🖥️ Tecnologias:
   
-Essas são as tecnogias na qual sou familiarizado, e tenho iniciado nos estudos:
+Essas são as tecnogias na qual sou familiarizado, e tenho estudado:
 
 #### 
 <p align="center">
@@ -42,7 +42,7 @@ Essas são as tecnogias na qual sou familiarizado, e tenho iniciado nos estudos:
 
 <div align="center" margin=50em>
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVizoto&theme=dracula&hide_border=true&&layout=compact"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasVizoto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&&layout=compact"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=LucasVizoto&show_icons=true&theme=dracula&hide_border=true"/>
 </div>
 
 <div align="center">
