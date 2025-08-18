@@ -41,8 +41,9 @@ Essas são as tecnogias na qual sou familiarizado, e tenho estudado:
 ####
 
 <div align="center" margin=50em>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVizoto&theme=dracula&hide_border=true&&layout=compact"/>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=LucasVizoto&show_icons=true&theme=dracula&hide_border=true"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVizoto&theme=cobalt&hide_border=true&&layout=compact"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=LucasVizoto&show_icons=true&theme=cobalt&hide_border=true"/>
+    <img height="300"   src="https://github-readme-activity-graph.vercel.app/graph?username=LucasVizoto&radius=16&theme=cobalt&area=true&order=5&hide_border=true"/>
 </div>
 
 <div align="center">
