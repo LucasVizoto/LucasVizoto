@@ -37,9 +37,18 @@ These are the technologies I have the most experience with:
 </div>
 
 
-####   
+####
 
-####   
+####
+
+  ## 📊 My GitHub Stats
+  <br>
+    <div align="center" margin=50em>
+        <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVizoto&theme=cobalt&hide_border=true&&layout=compact"/>
+        <img height="190em" src="https://github-readme-stats.vercel.app/api?username=LucasVizoto&show_icons=true&theme=cobalt&hide_border=true"/>
+        <img height="300"   src="https://github-readme-activity-graph.vercel.app/graph?username=LucasVizoto&radius=16&theme=cobalt&area=true&order=5&hide_border=true"/>
+    </div>
+
 
   ## 📱 Contact:
 <div> 
@@ -50,17 +59,3 @@ These are the technologies I have the most experience with:
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 </div>
-
-####
-
-####
-
-<details>
-    <summary><h3><b>📊 My GitHub Stats</b></h3></summary>
-    <br>
-      <div align="center" margin=50em>
-          <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVizoto&theme=cobalt&hide_border=true&&layout=compact"/>
-          <img height="190em" src="https://github-readme-stats.vercel.app/api?username=LucasVizoto&show_icons=true&theme=cobalt&hide_border=true"/>
-          <img height="300"   src="https://github-readme-activity-graph.vercel.app/graph?username=LucasVizoto&radius=16&theme=cobalt&area=true&order=5&hide_border=true"/>
-      </div>
-</details>
