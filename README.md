@@ -1,5 +1,5 @@
 <div margin=50em>
-<img src="Programmer-Illustration.png" align=right width=375px>
+<img src="devImage.png" align=right width=375px>
 
 
 ## Welcome to my GitHub! ☕️
@@ -19,11 +19,11 @@ These are the technologies I have the most experience with:
   #### 
   ### Backend:    
   
-  <img src="https://skillicons.dev/icons?i=python,flask,django,nodejs,golang,spring,laravel" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,nodejs,express,nest,golang,spring" height="40" />
   
   #### 
   ### Frontend: 
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" height="40" />
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap" height="40" />
   
   #### 
   ### Database: 
@@ -36,8 +36,9 @@ These are the technologies I have the most experience with:
 
   ####
   ### Certification:
-  <img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" height="100"/>
-  
+  <a href='https://www.credly.com/badges/ab142afe-580a-4081-852c-04070065a677/public_url'>
+  <img src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" height="100"/>
+  </a>
 </div>
 
 
@@ -61,5 +62,8 @@ These are the technologies I have the most experience with:
 </a>
 <a href="mailto:lucasvizoto364@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<a href="https://lucasvizoto.com">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge" target="_blank">
 </a>
 </div>
