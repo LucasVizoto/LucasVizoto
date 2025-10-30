@@ -37,7 +37,10 @@ These are the technologies I have the most experience with:
   ####
   ### Certification:
   <a href='https://www.credly.com/badges/ab142afe-580a-4081-852c-04070065a677/public_url'>
-  <img src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" height="100"/>
+    <img src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" height="100"/>
+  </a>
+  <a href='https://www.credly.com/badges/1680da63-54c4-4fe7-94da-aa8712c459b8/public_url'>
+    <img src='https://images.credly.com/size/340x340/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob' height="100"/>
   </a>
 </div>
 
