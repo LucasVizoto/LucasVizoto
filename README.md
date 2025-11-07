@@ -19,7 +19,7 @@ These are the technologies I have the most experience with:
   #### 
   ### Backend:    
   
-  <img src="https://skillicons.dev/icons?i=python,flask,django,nodejs,express,nest,golang,spring" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nest,python,flask,django,golang,spring" height="40" />
   
   #### 
   ### Frontend: 
@@ -32,7 +32,7 @@ These are the technologies I have the most experience with:
   
   #### 
   ### Cloud & DevOps: 
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" height="40" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions" height="40" />
 
   ####
   ### Certification:
