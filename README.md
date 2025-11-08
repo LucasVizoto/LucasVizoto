@@ -19,7 +19,7 @@ These are the technologies I have the most experience with:
   #### 
   ### Backend:    
   
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,fastify,express,nest,python,flask,django,golang,spring" height="40" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,nest,python,flask,django,golang,spring" height="40" />
   
   #### 
   ### Frontend: 
