@@ -19,20 +19,20 @@ These are the technologies I have the most experience with:
   #### 
   ### Backend:    
   
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nest,python,flask,django,golang,spring" height="40" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,fastify,express,nest,python,flask,django,golang,spring" height="40" />
   
   #### 
   ### Frontend: 
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap" height="40" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,next,tailwind,bootstrap" height="40" />
   
   #### 
   ### Database: 
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,sqlite,postgres" height="40" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,redis,sqlite,postgres,oracle" height="40" />
   
   
   #### 
   ### Cloud & DevOps: 
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions" height="40" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,docker,kubernetes,githubactions" height="40" />
 
   ####
   ### Certification:
