@@ -23,7 +23,7 @@ These are the technologies I have the most experience with:
   
   #### 
   ### Frontend: 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,next,tailwind,bootstrap" height="40" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,next,angular,tailwind,bootstrap" height="40" />
   
   #### 
   ### Database: 
