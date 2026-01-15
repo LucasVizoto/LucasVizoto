@@ -27,7 +27,7 @@ These are the technologies I have the most experience with:
   
   #### 
   ### Database: 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,redis,sqlite,postgres,oracle" height="40" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,redis,sqlite,postgres,supabase,oracle" height="40" />
   
   
   #### 
