@@ -52,9 +52,9 @@ These are the technologies I have the most experience with:
   ## 📊 My GitHub Stats
   <br>
     <div align="center" margin=50em>
-        <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVizoto&theme=cobalt&hide_border=true&&layout=compact"/>
-        <img height="190em" src="https://github-readme-stats.vercel.app/api?username=LucasVizoto&show_icons=true&theme=cobalt&hide_border=true"/>
-        <img height="300"   src="https://github-readme-activity-graph.vercel.app/graph?username=LucasVizoto&radius=16&theme=cobalt&area=true&order=5&hide_border=true"/>
+        <img height="190em" src="https://github-readme-stats-fast.vercel.app/api?username=LucasVizoto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+        <img height="190em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LucasVizoto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+        <img height="300"   src="https://github-readme-activity-graph.vercel.app/graph?username=LucasVizoto&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true"/>
     </div>
 
 
